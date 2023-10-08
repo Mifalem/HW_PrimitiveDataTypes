@@ -3,7 +3,7 @@ public class Main {
         int price = 898;
         int milesRub = 20;
         int bonus = price / milesRub;
-                System.out.println(bonus);
+        System.out.println(bonus);
     }
 
 }
